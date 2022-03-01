@@ -3,7 +3,7 @@
 # Ricardo Mendes 🎱
 I'm an electronics and automation engineer that simple love everything about coding, electronics and industrial automation.
 I strive to learn as much programing languages that I can! 
-I work as an industrial automation engineer but I'm always diving into software development because I consider both areas very important in my line of work.
+I work as an industrial automation engineer but I'm always diving into software development because I consider both areas to be very important in my line of work.
 
 ## Skills and Experience: 
 
