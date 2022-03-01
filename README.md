@@ -11,8 +11,8 @@ I work as an industrial automation engineer but I'm always diving into software 
 * 💻 C++, VBA, Java
 * 🏭 Plc's Programming / HMI's Design And Programming
 * 🦅 Eaggle PCB Design
-* ⚡ Digital, Multisim
-* 📐 Photoshop
+* ⚡ Digital, Multisim, Eplan
+* 📐 Photoshop, Autocad
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RAMM-Automation)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ricardomendes8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.ramm.pro)  
