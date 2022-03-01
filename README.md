@@ -1,6 +1,6 @@
 ![Electronics and automation engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-### Hi there 👋, I'm Ricardo Mendes 🎱
+# Ricardo Mendes 🎱
 I'm an electronic and automation engineer that simple love everything about coding, electronics and industrial automation.
 I strive to learn as much programing languages that I can! 
 I work as an industrial automation engineer but I'm always diving into software development because I consider both areas very important in my line of work.
